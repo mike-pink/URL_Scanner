@@ -18,6 +18,6 @@ seen the solutions for them. I used AI to help teach me what i was doing wrong w
 doesn't work and why the solution fixes it.
 
 I plan to add a file scanner to the program,
-This I hope to learn are:
+I hope to learn are:
 - Learning to call the file system in a program
 - How a program interacts with the storage system and operating system in more depth
