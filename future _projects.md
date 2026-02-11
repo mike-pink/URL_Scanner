@@ -9,3 +9,7 @@
       - Better understand security certificates and how they prevent MITM attacks
       - Learn the process of aquiring and implementing security certificates on webpages
       - Get a better understanding on the importance of valid security certificates
+
+### Create scripts using bash and powershell
+    Learning Goals:
+      - Learn automation
